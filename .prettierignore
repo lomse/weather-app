@@ -1,0 +1,11 @@
+.gitignore
+.prettierignore
+yarn.lock
+yarn-errorResponse.log
+package-lock.json
+build
+src/index.css
+public/*
+tsconfig.json
+yarn-error.log
+stylelint.config
